@@ -1,8 +1,7 @@
-# Inteligencia Artificial (IA) 2015/16
-Por Luis Alfonso González. Grado en Ingeniería Informática, Facultad de Informática, Universidad Complutense de Madrid
+# Artificial Intelligence
 
-# Algoritmos genéticos
-Comparación de uso de fuerza bruta, aleatoriedad y algoritmos genéticos para optimizar un problema 
+# Genetic algorithms
+Comparing brute force search, random search and genetic algorithms to optimize a problem 
 
 # Prolog
-Diversos programas en prolog para representar conocimiento y lenguaje natural
+Some programs to represent knowledge and natural language processing
